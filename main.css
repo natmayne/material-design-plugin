@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+html * {
+  font-family: "Roboto" !important;
+}
+
+.container {
+  font-family: "Roboto";
+  width: 427px;
+
+  margin: 30px auto 0;
+  display: block;
+  background: #fff;
+  padding: 10px 50px 50px;
+}
+
+h2 {
+  text-align: center; 
+  margin-bottom: 10px;
+}
